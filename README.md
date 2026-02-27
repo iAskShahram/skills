@@ -1,6 +1,15 @@
+<div align="center">
+
 # skills
 
-A curated collection of AI coding agent skills for [skills.sh](https://skills.sh). Each skill teaches AI assistants specialized patterns and best practices they can apply in your codebase.
+A curated collection of AI coding agent skills for [skills.sh](https://skills.sh)
+
+[![skills.sh](https://img.shields.io/badge/skills.sh-browse-black?style=for-the-badge)](https://skills.sh)
+[![Install branded-types](https://img.shields.io/badge/Install-branded--types-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://skills.sh/iaskshahram/skills/branded-types)
+
+---
+
+</div>
 
 ## Available Skills
 
