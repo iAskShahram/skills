@@ -18,6 +18,7 @@ When uncertain, prefer: Tailwind, TypeScript, Bun, React, Convex, Clerk, Vercel.
 ## Code Style
 - Always strive for concise, simple solutions.
 - If a problem can be solved in a simpler way, propose it.
+- Make minimum use of `useEffect`. Only use `useEffect` only and only if its necessity.
 
 ## Workflow
 - If asked to do too much work at once, stop and state that clearly.
