@@ -1,3 +1,8 @@
+---
+name: ts-rules-iaskshahram
+description: Personal TypeScript and development preferences — package managers, tech stack defaults, command policies, and code style rules. Apply when working in any TypeScript/JavaScript project to enforce these conventions.
+---
+
 # Personal Preferences
 
 ## TypeScript
