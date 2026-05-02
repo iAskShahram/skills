@@ -18,12 +18,12 @@ description: Personal TypeScript and development preferences — package manager
 - Never use npm or yarn.
 
 ## Tech Stack Preferences
-When uncertain, prefer: Tailwind, TypeScript, Bun, React, Convex, Clerk, Vercel.
+When uncertain, prefer: Tailwind, nuqs, TypeScript, Bun, Next.js, PostgreSQL, BetterAuth, Vercel.
 
 ## Code Style
 - Always strive for concise, simple solutions.
 - If a problem can be solved in a simpler way, propose it.
-- Make minimum use of `useEffect`. Only use `useEffect` only and only if its necessity.
+- Make minimum use of `useEffect`. Only use `useEffect` when absolutely necessity.
 
 ## Workflow
 - If asked to do too much work at once, stop and state that clearly.
