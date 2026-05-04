@@ -1,6 +1,7 @@
 ---
 name: generate-dockerfile-iaskshahram
 description: Generate production-ready, secure, multi-stage Dockerfile and .dockerignore for any project
+category: development
 user-invocable: true
 ---
 
