@@ -15,6 +15,7 @@ A curated collection of AI coding agent skills for [skills.sh](https://skills.sh
 | Skill | Description |
 |-------|-------------|
 | [branded-types](skills/branded-types/SKILL.md) | Implement branded (nominal/opaque) types in TypeScript to prevent accidental mixing of structurally identical types like `UserId` and `PostId`. Zero runtime overhead. |
+| [dump-thread](skills/dump-thread/SKILL.md) | Write the current agent thread's full conversation into an md file with exact wording and tool call metadata. |
 | [generate-dockerfile-iaskshahram](skills/generate-dockerfile-iaskshahram/SKILL.md) | Generate production-ready, secure, multi-stage `Dockerfile` and `.dockerignore` tailored to the project's language, framework, and dependencies. |
 | [impeccable](skills/impeccable/SKILL.md) | Design, audit, and iterate production-grade frontend interfaces — UX review, visual hierarchy, accessibility, theming, motion, and live browser iteration. |
 | [ts-rules-iaskshahram](skills/ts-rules-iaskshahram/SKILL.md) | Personal TypeScript/JS preferences — package managers (pnpm/bun), tech stack defaults, command policies, and code style rules. |
