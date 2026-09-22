@@ -1,9 +1,9 @@
 ---
-name: cf-r2-file
+name: file-upload
 description: Uploads a local file to Cloudflare R2 bucket `public` with wrangler and returns the public URL on assets.shahram.dev. Use when the user wants a public link, public URL, or to host/upload a local image or file to R2.
 ---
 
-# cf-r2-file
+# File upload
 
 Upload a local file to the existing R2 bucket `public`. Return the public URL. Copy it to the clipboard.
 
