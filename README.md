@@ -19,6 +19,7 @@ A curated collection of AI coding agent skills for [skills.sh](https://skills.sh
 | [generate-dockerfile-iaskshahram](skills/generate-dockerfile-iaskshahram/SKILL.md) | Generate production-ready, secure, multi-stage `Dockerfile` and `.dockerignore` tailored to the project's language, framework, and dependencies. |
 | [impeccable](skills/impeccable/SKILL.md) | Design, audit, and iterate production-grade frontend interfaces — UX review, visual hierarchy, accessibility, theming, motion, and live browser iteration. |
 | [ts-rules-iaskshahram](skills/ts-rules-iaskshahram/SKILL.md) | Personal TypeScript/JS preferences — package managers (pnpm/bun), tech stack defaults, command policies, and code style rules. |
+| [windows-mcp-screenshot](skills/windows-mcp-screenshot/SKILL.md) | Take full-screen, per-monitor, or region screenshots of a Windows desktop with Windows-MCP, handle its errors and coordinate scaling, and save captures to PNG. |
 | [uncodixfy](skills/uncodixfy/SKILL.md) | Prevents generic AI/Codex UI patterns when generating frontend code. Enforces clean, human-designed aesthetics inspired by Linear, Raycast, Stripe, and GitHub. |
 
 ## Usage
